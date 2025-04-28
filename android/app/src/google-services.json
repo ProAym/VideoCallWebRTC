@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464878704431",
+    "project_id": "webrtcviode",
+    "storage_bucket": "webrtcviode.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464878704431:android:9267f67c2c17cb144373da",
+        "android_client_info": {
+          "package_name": "com.videoCall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pNBamtKDwCaKcV5qNg3VCyxfKDoZNgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

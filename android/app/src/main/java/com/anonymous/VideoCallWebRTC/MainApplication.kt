@@ -1,4 +1,4 @@
-package com.anonymous.VideoCallWebRTC
+package com.videoCall
 
 import android.app.Application
 import android.content.res.Configuration
